@@ -1,2 +1,2 @@
-# 4 é o número
+# exercicio
 Tabela, Responsividade, Notícia, Notícia Boot Strap.
