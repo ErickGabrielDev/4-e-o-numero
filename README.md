@@ -1,2 +1,2 @@
-# 4-o-n-mero
+# 4 é o número
 Tabela, Responsividade, Notícia, Notícia Boot Strap.
