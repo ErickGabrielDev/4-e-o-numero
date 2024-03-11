@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+td{
+    border: 1px solid black;
+    padding: 8px;
+}
+table{
+    width: 900px;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 20px;
+}
+
+tr.coluna{
+    color: white;
+    background-color: black;
+    padding: 8px;
+}
+
+tr.linha{
+    background-color: #F6ECFE;
+}
+th{
+    border: 1px solid black;
+    padding: 8px;
+}
